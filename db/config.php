@@ -5,6 +5,4 @@ return array(
     "username" => "casaria_hdesk1",
     "password" => "5XwoR]B"
 );
-
-
 ?>
